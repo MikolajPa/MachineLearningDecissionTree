@@ -1,2 +1,14 @@
 ﻿  DecissionTree.cpp
-  DecissionTree.vcxproj -> C:\Users\mikolaj.palacz\source\repos\DecissionTree\x64\Debug\DecissionTree.exe
+C:\Users\mikolaj.palacz\source\repos\DecissionTree\MachineLearningDecissionTree\DecissionTree\DecissionTree.cpp(104,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mikolaj.palacz\source\repos\DecissionTree\MachineLearningDecissionTree\DecissionTree\DecissionTree.cpp(118,52): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mikolaj.palacz\source\repos\DecissionTree\MachineLearningDecissionTree\DecissionTree\DecissionTree.cpp(129,52): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mikolaj.palacz\source\repos\DecissionTree\MachineLearningDecissionTree\DecissionTree\DecissionTree.cpp(247,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mikolaj.palacz\source\repos\DecissionTree\MachineLearningDecissionTree\DecissionTree\DecissionTree.cpp(248,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mikolaj.palacz\source\repos\DecissionTree\MachineLearningDecissionTree\DecissionTree\DecissionTree.cpp(249,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mikolaj.palacz\source\repos\DecissionTree\MachineLearningDecissionTree\DecissionTree\DecissionTree.cpp(298,30): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\mikolaj.palacz\source\repos\DecissionTree\MachineLearningDecissionTree\DecissionTree\DecissionTree.cpp(299,47): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\mikolaj.palacz\source\repos\DecissionTree\MachineLearningDecissionTree\DecissionTree\DecissionTree.cpp(300,26): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\mikolaj.palacz\source\repos\DecissionTree\MachineLearningDecissionTree\DecissionTree\DecissionTree.cpp(308,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mikolaj.palacz\source\repos\DecissionTree\MachineLearningDecissionTree\DecissionTree\DecissionTree.cpp(308,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mikolaj.palacz\source\repos\DecissionTree\MachineLearningDecissionTree\DecissionTree\DecissionTree.cpp(364,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DecissionTree.vcxproj -> C:\Users\mikolaj.palacz\source\repos\DecissionTree\MachineLearningDecissionTree\x64\Debug\DecissionTree.exe
